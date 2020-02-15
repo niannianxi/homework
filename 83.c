@@ -2,6 +2,7 @@
 到输入一个#为止。*/
 #include<stdio.h>
 #include<string.h>
+#include<stdlib.h>
 int main(void)
 {
 	FILE *fp;
